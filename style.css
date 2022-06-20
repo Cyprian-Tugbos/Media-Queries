@@ -11,7 +11,7 @@
 }
 
 body {
-  background-image: url(/icons/bg-intro-desktop.png);
+  background-image: url(https://res.cloudinary.com/dqck5l7mj/image/upload/v1655768132/bg-intro-desktop_r9i5bg.png);
   background-color: hsl(0, 100%, 74%);
   background-position: center;
   background-repeat: no-repeat;
@@ -105,7 +105,7 @@ input:required:invalid {
 /* MOBILE STYLING */
 @media screen and (max-width: 600px) {
   body {
-    background-image: url(/icons/bg-intro-mobile.png);
+    background-image: url(https://res.cloudinary.com/dqck5l7mj/image/upload/v1655768152/bg-intro-mobile_urxtm0.png);
     background-color: hsl(0, 100%, 74%);
     background-position: center;
     background-repeat: no-repeat;
